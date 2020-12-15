@@ -13,10 +13,17 @@
 6. set your model's position (0,0,0)
 
 7. set Navigation Static and click "yes"
-  
+
+![image](https://user-images.githubusercontent.com/50140277/102225410-89eb2f00-3f2a-11eb-9217-bb20a1611a35.png)
+![image](https://user-images.githubusercontent.com/50140277/102225421-8ce61f80-3f2a-11eb-957e-b1c609100bfc.png)
+
 8. set Navigation
 
+![image](https://user-images.githubusercontent.com/50140277/102225428-8f487980-3f2a-11eb-9fae-b09b719132c1.png)
+
 9. adjust parameter to your model then Bake
+
+![image](https://user-images.githubusercontent.com/50140277/102225440-91123d00-3f2a-11eb-9851-739f14eaca8c.png)
 
 10. Create a folder with the same name as your model in ScreenShot folder
 
