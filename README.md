@@ -34,13 +34,17 @@
 13. Change REAL's "far" enough cover your model
 
 14. Click your model in Hierachy Tap
+
 ![image](https://user-images.githubusercontent.com/59030198/102231377-42b46c80-3f31-11eb-8c49-896bdb2ddda6.png)
+
 15. Click on the same sub object and select children
 
 ![image](https://user-images.githubusercontent.com/59030198/102231385-4516c680-3f31-11eb-9af7-1f6303045042.png)
 
 16. Set appropriate tag for object (Refer to ApplySegmentation.cs)
+
 ![image](https://user-images.githubusercontent.com/59030198/102231393-47792080-3f31-11eb-99c9-eb57a28fac32.png)
+
 17. Click play button
 
 18. Check screenshot folder ("real", "depth" and "segmentation" will be end of file name)
