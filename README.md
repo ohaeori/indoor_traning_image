@@ -1,0 +1,1 @@
+# indoor_traning_image
